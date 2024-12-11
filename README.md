@@ -14,9 +14,21 @@ A simple weather application built using HTML, CSS, and JavaScript.
 - Displays current temperature, weather condition, and more.
 - Clean and responsive UI.
 
-#### How to Run:
+### 2. [To Do List App](./ToDoListApp/)
 
-1. Navigate to the `WeatherApp` folder.
+A basic To Do List application built with HTML, CSS, and JavaScript.
+
+#### Features:
+
+- Add and delete tasks.
+- Mark tasks as completed.
+- Data is stored in local storage, so tasks persist even after refreshing the page.
+
+---
+
+### How to Run:
+
+1. Navigate to the `Project` folder.
 2. Open `index.html` in your web browser.
 
 ---
