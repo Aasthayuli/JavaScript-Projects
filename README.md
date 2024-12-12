@@ -26,9 +26,21 @@ A basic To Do List application built with HTML, CSS, and JavaScript.
 
 ---
 
+### 3. [Password Generator](./PasswordGenerator/)
+
+A random password generator application built with HTML, CSS, and JavaScript.
+
+#### Features:
+
+- Generates strong & random passwords.
+- Includes options to include uppercase, lowercase, numbers, and special characters.
+- Simple and user-friendly interface.
+
+---
+
 ### How to Run:
 
-1. Navigate to the `Project` folder.
+1. Navigate to the particular project folder.
 2. Open `index.html` in your web browser.
 
 ---
